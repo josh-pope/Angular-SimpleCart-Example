@@ -1,4 +1,6 @@
-// basic shopping cart coding test for comscore
+// basic shopping cart coding test
+
+// 
 // @auth Josh Pope
 
 var comscoreShoppingCart = angular.module('comscoreShoppingCart', []);
